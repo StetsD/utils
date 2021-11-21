@@ -20,3 +20,7 @@ func ContainInt(a []int, x int) bool {
 
 	return false
 }
+
+func Check() string {
+	return "check"
+}
