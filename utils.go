@@ -5,6 +5,7 @@ func Contain(a []string, x string) bool {
 		if x == n {
 			return true
 		}
+
 	}
 
 	return false
